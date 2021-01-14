@@ -43,3 +43,15 @@ C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAut
 C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\ref\BasicAuth.dll
 C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.pdb
 C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.genruntimeconfig.cache
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.Views.dll
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.Views.pdb
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.TagHelpers.input.cache
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.TagHelpers.output.cache
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.Views.pdb
+C:\Users\m.enbeh\Source\Repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.csproj.CopyComplete

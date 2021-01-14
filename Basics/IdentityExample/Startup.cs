@@ -43,6 +43,7 @@ namespace IdentityExample
                 .AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultTokenProviders();
 
+            //Identity with Cookie Configuration
             //we also configure the cookie as the previous section of basic authentication
             //the cookie name , the login path when there is no cookie found
             services.ConfigureApplicationCookie(config =>

@@ -44,15 +44,13 @@ namespace IdentityExample.Controllers
                 //we see that it will sign in the user and password and if success it will inform idenity to 
                 //create cookie with infinite time to live
                 var signInResult = await _signInManager.PasswordSignInAsync(user, password, false, false);
+                //it will create user identity with create cookie contains all the user information
                 if (signInResult.Succeeded) 
                 {
+                    //signin here
                     return RedirectToAction("Index");
-                }
-            
-            
+                }  
             }
-
-
             return RedirectToAction("Index");
         }
 
@@ -64,20 +62,16 @@ namespace IdentityExample.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(string userName, string password) 
         {
-
-
             var user = new IdentityUser
             {
                 UserName = userName,
                 Email = ""
             };
-
-
             var result = await _userManager.CreateAsync(user,password);
-
+            //it will create user identity with create cookie contains all the user information
             if (result.Succeeded) 
             {
-                //sign user here
+                return RedirectToAction("Index");
             }
             return RedirectToAction("Index");
         }
