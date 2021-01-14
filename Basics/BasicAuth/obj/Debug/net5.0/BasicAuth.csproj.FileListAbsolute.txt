@@ -1,0 +1,45 @@
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.exe
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.deps.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\ref\BasicAuth.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\staticwebassets\BasicAuth.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\staticwebassets\BasicAuth.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\scopedcss\bundle\BasicAuth.styles.css
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\ref\BasicAuth.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.exe
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.deps.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\ref\BasicAuth.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\bin\Debug\net5.0\BasicAuth.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\staticwebassets\BasicAuth.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\staticwebassets\BasicAuth.StaticWebAssets.xml
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\scopedcss\bundle\BasicAuth.styles.css
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\ref\BasicAuth.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\BasicAuth\obj\Debug\net5.0\BasicAuth.genruntimeconfig.cache

@@ -1,0 +1,84 @@
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.exe
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.deps.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\ref\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.Views.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.Views.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\ref\IdentityExample.dll
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.pdb
+C:\Users\m.enbeh\Desktop\Authetication and Authorization in .Net Core\Projects\Authentication\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\appsettings.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.exe
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.deps.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\ref\IdentityExample.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.Views.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\IdentityExample.Views.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorAssemblyInfo.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorAssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\staticwebassets\IdentityExample.StaticWebAssets.Manifest.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\staticwebassets\IdentityExample.StaticWebAssets.xml
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\scopedcss\bundle\IdentityExample.styles.css
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.TagHelpers.input.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.TagHelpers.output.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorCoreGenerate.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorTargetAssemblyInfo.cache
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.RazorTargetAssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.Views.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.csproj.CopyComplete
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\ref\IdentityExample.dll
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.pdb
+C:\Users\m.enbeh\source\repos\AuthSol\Basics\IdentityExample\obj\Debug\net5.0\IdentityExample.genruntimeconfig.cache
