@@ -66,14 +66,14 @@ namespace IdentityExample.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Register(string userName, string password) 
+        public async Task<IActionResult> Register(User) 
         {
             var user = new IdentityUser
             {
                 UserName = userName,
                 Email = ""
             };
-            var result = await _userManager.CreateAsync(user,password);
+            var result = await _userManager.CreateAsync(user,email);
             //it will create user identity with create cookie contains all the user information
             if (result.Succeeded) 
             {
