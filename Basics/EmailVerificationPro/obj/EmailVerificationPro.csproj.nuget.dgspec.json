@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.enbeh\\source\\repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj": {}
+    "C:\\Users\\m.enbeh\\Source\\Repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.enbeh\\source\\repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj": {
+    "C:\\Users\\m.enbeh\\Source\\Repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj",
+        "projectUniqueName": "C:\\Users\\m.enbeh\\Source\\Repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj",
         "projectName": "EmailVerificationPro",
-        "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj",
+        "projectPath": "C:\\Users\\m.enbeh\\Source\\Repos\\AuthSol\\Basics\\EmailVerificationPro\\EmailVerificationPro.csproj",
         "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\AuthSol\\Basics\\EmailVerificationPro\\obj\\",
+        "outputPath": "C:\\Users\\m.enbeh\\Source\\Repos\\AuthSol\\Basics\\EmailVerificationPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\m.enbeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\inetpub\\wwwroot\\MyWorkAngular\\AngApprovalNotification\\Packages\\enbeh-shared-setup-domain-package\\1.0.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
